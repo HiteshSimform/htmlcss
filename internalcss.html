@@ -10,9 +10,61 @@
             border: 2px;
             border-radius: 10px;
         }
+        #l:link{
+            color: green;
+            background-color: transparent;
+            text-decoration: none;
+        }
+        #l:visited{
+            color: pink;
+            background-color: transparent;
+            text-decoration: none;
+        }
+        #l:hover{
+            color: red;
+            background-color: transparent;
+            text-decoration: underline;
+        }
+        #l:active{
+            color: yellow;
+            background-color: transparent;
+            text-decoration: underline;
+        }
+
+        #btn:link, #btn:visited {
+            background-color: #f44336;
+            color: white;
+            padding: 15px 25px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        #btn:hover, #btn:active {
+            background-color: red;
+        }
     </style>
 </head>
 <body>
     <h1>Intrenal CSS</h1>
+    <a href="http://google.com" title="google" target="_blank" id="l">open google</a>
+    <a href="http://google.com" title="google" target="_blank" id="btn">open google</a>
+
+    <!-- link bookmark -->
+    <div title="link bookmark task">
+        <h1 id="hi1">H1</h1><br>
+        <h2 id="hi2">H2</h2><br>
+        <h3 id="hi3">H3</h3><br>
+        <h4 id="hi4">H4</h4><br>
+        <h5 id="hi5">H5</h5><br>
+        <h6 id="hi6">H6</h6><br>
+        
+        <a href="#hi1">go to H1</a><br>
+        <a href="#hi2">go to H2</a><br>
+        <a href="#hi3">go to H3</a><br>
+        <a href="#hi4">go to H4</a><br>
+        <a href="#hi5">go to H5</a><br>
+        <a href="#hi6">go to H6</a><br>
+    </div>
 </body>
 </html>
