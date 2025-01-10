@@ -1,0 +1,290 @@
+ Intro Session 	  	 1 hour
+Topics 	Reference LInks 	Days
+Python 	https://www.programiz.com/python-programming
+	5
+	https://www.tutorialspoint.com/python/index.htm 	
+List, tuple, function, etc for beginner 	https://www.youtube.com/watch?v=eXBD2bB9-RA&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln 	
+Python Classes and Objects 	https://youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU 	
+	https://youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc 	
+Static and Class Methods 	https://www.youtube.com/watch?v=rq8cL2XMM5M 	
+Decorator, Map-Reduce & Serializer 	Decorator: https://www.youtube.com/watch?v=FsAPt_9Bf3U
+Map-Reduce: https://www.youtube.com/watch?v=kYIrDMbqunw and in detail: https://www.youtube.com/watch?v=cKlnR-CB3tk 	
+Abstract Class and methods 	Medium blog
+	
+Data Structure and Algorithms 	Youtube - CS Dojo
+Youtube - NeetCode Channel
+Book 	
+File Reading and Writing 	https://www.youtube.com/watch?v=Uh2ebFW8OYM 	
+Stacks & Queues 	Refer Book in DSA 	
+Collections 	Refer Book in DSA 	
+Singleton in Python 	https://www.youtube.com/watch?v=6IV_FYx6MQA
+	
+Sync & Async 	Youtube - ArjanCodes
+	
+Python Debugger (pdb) 	https://www.youtube.com/watch?v=ChuU3NlYRLQ 	
+Pylint 	https://www.youtube.com/watch?v=fFY5103p5-c 	
+Iterator and generator 	https://www.youtube.com/watch?v=jTYiNjvnHZY 	
+Unit Testing 	https://www.youtube.com/watch?v=6tNS--WetLI 	
+Request module 	https://www.youtube.com/watch?v=tb8gHvYlCFs 	
+Pandas 	https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&index=1
+Needs to check all videos from this playlist. 	
+Multiprocessing 	https://youtu.be/fKl2JW_qrso 	
+Emails 	https://youtu.be/JRCJ6RtE3xU 	
+ Design Patterns 	 Article
+Youtube - Neetcode 	 
+ Solid Principles 	 Article 	 
+
+
+Note: First 2 are document links. The rest are topics that need to cover in Python learning.
+*** Load video tutorial in a separate window to get full access over a player. All are youtube video links. 
+
+<!-- django -->
+
+
+
+ Intro Session 	  	 1 hour
+Topics 	Reference LInks 	Days
+  	  	 
+Django 	https://www.djangoproject.com/start/
+	12
+Multiple apps 	- 	
+Django ORM 	- 	
+Django - Forms(Handling, Validation, Crispy form) 	- 	
+Django Models 	- 	
+Django Admin(List Models, Filters, Search) 	- 	
+Django Views 	- 	
+Django Class-Based Views 	- 	
+Jinja Template 	- 	
+Custom Response, exceptions, mixins 	- 	
+Authentication (Signup, Sign-in & Sign-out) 	- 	
+Image & File Upload via Django 	- 	
+Django test cases 	- 	
+Django Channels 	- 	
+Custom template tags, built-in template tags, and filters 	- 	
+Customizing Django Admin Panel 	- 	
+Multi-tenancy 	(Cover at the end of course) 	
+Resources for whole application development and deployment
+on AWS Linux and Heroku server 	https://youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p 	1
+Django with Celery-Beat 	https://medium.com/swlh/dynamic-task-scheduling-with-django-celery-beat-f2591d52e15 	1
+
+Note: Last 3 bold lines are Advance concepts and only be covered here if you cover all the above points in less than 5 days
+
+
+<!-- 
+
+ -->
+
+
+
+  DRF - Django Rest Framework
+
+Before starting this topic, Let's make sure that we are good at all basic Django concepts. And did a revision on the weekend.
+
+Topics 	Reference LInks 	Days
+ Intro Session 	  	 
+Django Rest Framework (DRF) 		4
+Django REST framework Setup 	https://www.youtube.com/watch?v=44qdTGbWY8c 	
+Serializers 	https://www.youtube.com/watch?v=uzO2PW5jNMk 	
+Views 	https://www.youtube.com/watch?v=DiSoVShaOLI 	
+GET, UPDATE, POST, DELETE - Function Views 	https://www.youtube.com/watch?v=B65zbFro2pU 	
+REST API Token Authentication for Mobile Apps 	https://www.youtube.com/watch?v=v4db49yJPIU 	
+Register a New User 	https://www.youtube.com/watch?v=_OhF6FEdIao 	
+Generating Authentication Tokens (TokenAuthentication) 	https://www.youtube.com/watch?v=Wq6JqXqOzCE 	
+Restricting Access with Permissions 	https://www.youtube.com/watch?v=5JG5PyU1CXI 	
+Adding Additional Fields to a ModelSerializer
+ using SerializerMethodField  	https://www.youtube.com/watch?v=h48Fxecu7EY 	
+Pagination and Class-Based Views  	https://www.youtube.com/watch?v=O79lhytiKd0 	
+Search Filtering and Ordering  	https://www.youtube.com/watch?v=F0tfRtBEkck 	
+
+Not available unless:
+
+    The activity Python Quiz is marked complete
+    The activity Python Practical Assignment is marked complete
+
+
+
+
+Topics 	Reference LInks 	Days
+Flask 	https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world 	4
+		
+ Intro Session 	  	 0
+Templates 	https://youtube.com/playlist?list=PLXmMXHVSvS-ABlT4k4eS3YPJSnPUozw04
+Please understand the concepts of the template in Flask. Skip other parts and videos. It will be covered in the first few videos only. 	
+WebForms 	https://www.youtube.com/watch?v=mqhxxeeTbu0&list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX 	
+Database 	https://www.youtube.com/watch?v=cYWiDiIUxQc&list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH&index=4
+Please check other topics(from below list) in this playlist as well. 	
+User Login 	- 	
+Error Handling 	- 	
+Pagination 	- 	
+Email integration 	- 	
+I18n and L10n 	- 	
+Dates and Time 	- 	
+Ajax with Flask 	- 	
+Application Structure 	- 	
+Full-Text Search 	- 	
+Deployment 	- 	
+User Notification 	- 	
+Background Jobs 	- 	
+Test-Driven Development 	https://github.com/mjhea0/flaskr-tdd 	1
+Flask WTF 	https://youtube.com/playlist?list=PLXmMXHVSvS-C_T5JWEDWIc9yEM3Hj52-1 	1
+Flask and Celery 	https://youtube.com/playlist?list=PLXmMXHVSvS-DvYrjHcZOg7262I9sGBLFR 	1
+Flask serverless 	https://www.serverless.com/blog/flask-python-rest-api-serverless-lambda-dynamodb/ 	3
+Serverless flask/lambda 	https://spiegelmock.com/2018/09/06/serverless-python-web-applications-with-aws-lambda-and-flask/ 	1
+		
+SQLAlchemy 		3
+Connecting to a Database in Flask Using Flask-SQLAlchemy 	https://youtu.be/Tu4vRU4lt6k?list=PLXmMXHVSvS-BlLA5beNJojJLlpE0PJgCW 	
+Inserting, Updating, and Deleting from a Database in Flask-SQLAlchemy 	https://youtu.be/0yid46tNIDw?list=PLXmMXHVSvS-BlLA5beNJojJLlpE0PJgCW 	
+Creating One-To-Many Relationships in Flask-SQLAlchemy 	https://youtu.be/juPQ04_twtA?list=PLXmMXHVSvS-BlLA5beNJojJLlpE0PJgCW 	
+Debugging Queries in Flask-SQLAlchemy 	https://youtu.be/5puPZ3n06EE?list=PLXmMXHVSvS-BlLA5beNJojJLlpE0PJgCW 	
+SQLAlchemy Migrations Using Flask-Migrate 	https://youtu.be/BAOfjPuVby0?list=PLXmMXHVSvS-BlLA5beNJojJLlpE0PJgCW 	
+Creating Many-To-Many Relationships in Flask-SQLAlchemy 	https://youtu.be/OvhoYbjtiKc?list=PLXmMXHVSvS-BlLA5beNJojJLlpE0PJgCW 	
+Executing Custom SQL Statements in Flask-SQLAlchemy 	https://youtu.be/FEtJgtmogSY?list=PLXmMXHVSvS-BlLA5beNJojJLlpE0PJgCW 	
+Using Constraints in Flask-SQLAlchemy 	https://youtu.be/lnfrcHdE_HI?list=PLXmMXHVSvS-BlLA5beNJojJLlpE0PJgCW 	
+Left Outer Join in Flask-SQLAlchemy 	https://youtu.be/_HIY1lZKEw0?list=PLXmMXHVSvS-BlLA5beNJojJLlpE0PJgCW 	
+Group By in Flask-SQLAlchemy 	https://youtu.be/iDrs1S_ySg4?list=PLXmMXHVSvS-BlLA5beNJojJLlpE0PJgCW 	
+Order By, Offset, and Limit in Flask-SQLAlchemy 	https://youtu.be/BJeiVGAvEFI?list=PLXmMXHVSvS-BlLA5beNJojJLlpE0PJgCW 	
+Intro to Postgres JSON Columns in Flask-SQLAlchemy 	https://youtu.be/Nm1FPcsPnWg?list=PLXmMXHVSvS-BlLA5beNJojJLlpE0PJgCW 	
+How to Create Joins in SQLAlchemy 	https://youtu.be/FDrB5X3zSHc?list=PLXmMXHVSvS-BlLA5beNJojJLlpE0PJgCW 	
+Handling Exceptions In Flask-SQLAlchemy 	https://youtu.be/P-Z1wXFW4Is?list=PLXmMXHVSvS-BlLA5beNJojJLlpE0PJgCW 	
+		
+Flask REST Framework 	https://youtube.com/playlist?list=PLS1QulWo1RIYbSv5_R2I_QbAcvbyqBCun 	2
+(Most topics covered in the above course) 	https://realpython.com/flask-connexion-rest-api/ 	
+(It gives an idea about RestAPI end-to-end) 	https://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask 	
+(we do use such development in production) 	https://betterprogramming.pub/building-restful-apis-with-flask-and-sqlalchemy-part-1-b192c5846ddd 	
+
+
+Note: Bold and Italic topics are part of advanced learning. If you are doing good with Flask within 5 days, you can spend 3 more days here to cover all Advance topics. list down all of it just for your reference.
+
+    Test-Driven Development
+    Flask WTF
+    Flask and Celery
+    Flask REST Framework
+    Serverless flask/lambda - Flask serverless
+
+
+
+
+ Docker
+
+Topics 	Reference LInks 	Days
+Docker with Basic Commands 	https://www.tutorialspoint.com/docker/index.htm 	2
+Docker Compose & Swarm 	https://www.youtube.com/watch?v=74p7csxKN8M 	
+Docker Image building & running for models 	https://mlops.community/watch/building-machine-learning-models-into-docker-images_wbkHMGzP4ev4Qp/ 	
+
+
+Note: Docker Compose & Swarm and Docker Image building & running for models are advanced topics. And we will cover it later. But in your free time, you can take a look at this.
+
+
+
+
+
+lesson icon
+FastAPI Course Important Topics Lesson
+To do: View To do: Go through the activity to the end To do: Receive a grade
+
+1. Introduction to FastAPI
+
+    Overview of FastAPI: Explain what FastAPI is, its advantages, and why it’s a popular choice for building APIs. Highlight its speed, ease of use, and ASGI compatibility.
+    Installation: Guide on installing FastAPI and a Uvicorn ASGI server.
+    Hello World API: Create a simple FastAPI application to return a JSON response. This gives a quick start to see how FastAPI works.
+
+2. Path Operations (Endpoints)
+
+    Path and Query Parameters: Demonstrate how to define endpoints and accept path parameters (e.g., /items/{item_id}) and query parameters (e.g., /items?name=example).
+    Request Methods: Explain HTTP methods like GET, POST, PUT, DELETE, and PATCH, and how to create endpoints for each.
+    Request and Response Models: Introduce Pydantic models for request validation and response formatting.
+
+3. Data Validation with Pydantic
+
+    Data Modeling: Show how to create Pydantic models for structured data validation.
+    Nested Models and Data Types: Explain nested models and how to use complex data types like lists and dictionaries.
+    Field Validation: Cover field-level validation using Pydantic’s built-in validators and custom validators.
+
+4. Dependency Injection
+
+    Introduction to Dependencies: Explain FastAPI’s dependency injection system and its advantages.
+    Defining and Using Dependencies: Create reusable dependencies for common tasks (e.g., fetching data, authorization).
+    Sub-dependencies: Show how dependencies can depend on other dependencies.
+
+5. Asynchronous Programming with FastAPI
+
+    Synchronous vs. Asynchronous: Explain when and why to use asynchronous endpoints.
+    Async Endpoints: Create async functions for I/O-bound tasks like database access and external API calls.
+    Performance and Concurrency: Briefly touch on FastAPI’s ASGI-based performance benefits and handling concurrent requests.
+
+6. Database Integration
+
+    Database Options: Discuss ORM options like SQLAlchemy and Tortoise ORM.
+    Database CRUD Operations: Demonstrate basic CRUD operations with SQLAlchemy or Tortoise ORM.
+    Database Dependency: Implement a dependency to manage database sessions.
+
+7. Handling Authentication and Authorization
+
+    OAuth2 with Password (JWT): Implement OAuth2 password flow with JWT tokens for user authentication.
+    Role-Based Access Control: Use dependencies to restrict access to endpoints based on user roles.
+    Security Best Practices: Discuss security practices, including password hashing and token expiration.
+
+8. Error Handling and Responses
+
+    Custom Error Responses: Customize error responses for validation errors and 404 responses.
+    HTTPException: Use HTTPException to return custom error responses with specific HTTP status codes.
+    Global Exception Handling: Set up global exception handlers to catch and manage exceptions.
+
+9. Background Tasks
+
+    BackgroundTask Utility: Use background tasks for tasks that don’t need to complete before responding (e.g., sending email notifications).
+    Asynchronous Background Tasks: Implement asynchronous tasks to handle non-blocking operations.
+
+10. Testing with FastAPI
+
+    Unit Testing Endpoints: Write tests for FastAPI endpoints using TestClient and pytest.
+    Mocking Dependencies: Demonstrate how to mock dependencies for isolated testing.
+    Automated Testing Setup: Set up a basic CI/CD pipeline to run automated tests.
+
+11. Documentation and OpenAPI
+
+    Swagger UI and Redoc: Highlight FastAPI’s built-in interactive documentation.
+    Customizing OpenAPI Docs: Customize the API documentation by adding tags, descriptions, and summaries.
+
+12. Deployment
+
+    Containerizing with Docker: Set up Docker for containerizing the FastAPI app.
+    Serving with Uvicorn and Gunicorn: Use Uvicorn with Gunicorn for production deployment.
+    Deployment Best Practices: Discuss best practices for deploying a FastAPI application, including security and scalability considerations.
+
+---------------------------------------------------------------------------------
+POC 1: Simple To-Do List API
+
+Objective: Build a RESTful API for managing to-do tasks. This POC will help developers practice CRUD operations, data validation, and dependency injection.
+Features:
+
+    Task Management Endpoints: Create endpoints for adding, retrieving, updating, and deleting tasks.
+    Data Validation: Use Pydantic models to validate the input data for tasks (e.g., title, description, due date).
+    Dependency Injection: Set up a dependency to manage a simple in-memory data store (or SQLite database).
+    Error Handling: Implement error handling for invalid requests and non-existent tasks.
+    Interactive Documentation: Make sure Swagger UI shows accurate and descriptive documentation.
+
+Expected Learning Outcomes:
+
+    Defining CRUD endpoints in FastAPI
+    Validating input data with Pydantic
+    Implementing custom error handling
+    Exploring FastAPI's interactive documentation
+
+POC 2: Authentication-Based User Profile API
+
+Objective: Build a simple API for user registration, authentication, and profile management. This POC will focus on authentication, authorization, and secure data handling.
+Features:
+
+    User Registration and Login: Implement user registration and login endpoints using JWT-based authentication.
+    User Profile Management: Allow users to view and update their profile details.
+    Role-Based Access Control: Restrict certain profile fields (e.g., is_admin) to be accessed only by admins.
+    Password Hashing and Security: Securely hash passwords and validate on login.
+    Database Integration: Use SQLAlchemy or Tortoise ORM for handling user data and JWT tokens.
+
+Expected Learning Outcomes:
+
+    Building secure authentication flows with JWT
+    Applying role-based access control with dependencies
+    Using ORM for database management
+    Managing passwords and user data securely
