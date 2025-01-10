@@ -288,3 +288,12 @@ Expected Learning Outcomes:
     Applying role-based access control with dependencies
     Using ORM for database management
     Managing passwords and user data securely
+
+
+
+    js task
+
+    calc image
+
+    Perform Operations(+, -, /, *, mod, x^2, 1/x, M+, M- and MS) from the above image
+    *If you got time spend it to perform remain operations. 
